@@ -1,0 +1,33 @@
+body{
+	margin: 0px;
+	font-family: sans-serif;
+}
+#header{
+	background-color: #E87722;
+	color: white;
+	padding: 10px 20px;
+}
+#header h1{
+	margin: 30px;
+}
+#header ul{
+	list-style: none;
+	padding: 0px;
+	overflow: hidden;
+}
+#header li{
+	float: left;
+	margin: 0 25px 0 0;
+}
+#header ul a{
+	color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+}
+#header ul a:hover{
+	color: #FCE300;
+    font-weight: bold;
+}
+#content {
+	padding: 10px;
+}
