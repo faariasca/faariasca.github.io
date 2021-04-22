@@ -1,0 +1,5 @@
+Agregar widget goodreads
+colores gama:  0 134 119
+               0 156 168
+               0 88 92 ; yellow256 74 27  ; orange 255 187 0
+         #E87722

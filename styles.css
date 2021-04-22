@@ -1,6 +1,8 @@
 body{
 	margin: 0px;
 	font-family: sans-serif;
+    background-color: #FAFAD2;
+
 }
 #header{
 	background-color: #E87722;
@@ -30,4 +32,15 @@ body{
 }
 #content {
 	padding: 10px;
+	margin-left: 30px;
 }
+#content img{
+	float: left;
+	width: 20%;
+}
+ #content p{
+ 	{
+ 	float: left;
+ 	width: 35%;
+	margin: 0 30px;
+ }
