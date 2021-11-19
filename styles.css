@@ -4,6 +4,16 @@ body{
     background-color: #FAFAD2;
 
 }
+#header #logo-un img{
+	float: left;
+	padding-left: 3%;
+	margin-top: 30px;
+}
+#header #math-logo img{
+	float: right;
+	padding-right: 4%;
+	margin-top: 30px;
+}
 #header{
 	background-color: #E87722;
 	color: white;
@@ -60,3 +70,13 @@ body{
 	margin-top: 20px;
 	overflow: hidden;
 }
+.mat img{
+	float: left;
+	padding-right: 20px;
+	width: 20%;
+}
+.mat p{
+ 	float: left;
+ 	width: 60%;
+	margin: 0 30px;
+ }
