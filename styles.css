@@ -97,7 +97,7 @@ footer li{
 	float: right;
 	margin: 0 25px 0 0;
 }
-.wpp{
+footer .wpp{
   border: none;
   width: 50px;
   height: 50px;
@@ -105,7 +105,7 @@ footer li{
   transition: all ease-in-out 0.2s;
   cursor: pointer;
 }
-.wpp:hover{
+footer .wpp:hover{
   border: 0px solid #E87722;
   background-color: #E87722;
 }
